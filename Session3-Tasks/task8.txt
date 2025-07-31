@@ -1,0 +1,9 @@
+Linear Search
+Best Case: O(1)
+Worst Case: O(N)
+Average Case: O(N/2) = O(N)
+
+Binary Search:
+Best Case: O(1)
+Worst Case: O(Log(N))
+Average Case: O(Log(N))
